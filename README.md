@@ -1,5 +1,10 @@
 # Session-Hijacking-Simulator
 
+📘 Session Hijacking Simulator 
+
+It is an advanced, educational tool designed to demonstrate critical session management vulnerabilities commonly found in web applications. Session hijacking—where an attacker steals or predicts a user’s session identifier to impersonate them—remains one of the most dangerous web application vulnerabilities. This tool simulates a vulnerable web application that deliberately exposes session IDs in insecure ways, allowing penetration testers, security architects, and developers to understand, visualise, and mitigate these risks. Rather than just detecting vulnerabilities, this simulator actively shows the attack chain from capture to exploitation, bridging the gap between theoretical knowledge and practical exploitation.
+
+
 🎯 Objective
 
 To demonstrate—in a controlled, educational environment—how session hijacking and fixation attacks are executed against a vulnerable web application. The simulator exposes multiple insecure session management practices, including:
